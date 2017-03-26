@@ -1,0 +1,30 @@
+open_with q
+move
+copy ~/music
+shell mkdir media
+shell mkdir pictures
+open_with hj
+shell mkdir books
+open_with
+search bsd
+
+search 2
+search bwm
+search 2bwm
+search yaourt
+search key
+search upto
+open_with keepassx2
+search per
+search ranger
+search .conj
+search .conf
+search mnt
+search .con
+search config
+open_with hk
+deleted
+delete
+search 
+search
+searchq`

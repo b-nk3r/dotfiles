@@ -1,0 +1,29 @@
+#You can set your editor of preference here
+set editor=nvim
+
+#It's important to set your real name and from email address to avoid SMTP errors.
+set realname="bunker"
+set from=bunker@teknik.io
+set use_from=yes
+
+set imap_user=bunker@teknik.io
+
+#Don't set your password here, mutt will prompt you for it.
+set imap_pass=
+
+#This is an example IMAP configuration.
+set folder="imaps://mail.teknik.io/"
+set spoolfile=+INBOX
+set record="Sent"
+set postponed="Drafts"
+
+#This is to send email, uses your imap user to send.
+#Again, mutt will prompt you for your teknik email password.
+set smtp_url="smtps://$imap_user@mail.teknik.io/"
+
+#Miscellaneous configuration, check mutt man pages or online documentation to see what they do.
+set ssl_starttls=yes
+unset imap_passive
+set imap_check_subscribed
+set net_inc=5
+set mail_check = 360
