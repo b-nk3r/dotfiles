@@ -1,5 +1,5 @@
 ! #general
-*font:                      xft:hack:size=9
+*font:                      -gohu-gohufont-medium-r-normal-*-13-*-*-*-*-*-*-*
 *boldFont:                  xft:hack:size=9
 *italicFont:                xft:hack:size=9
 *bolditalicFont:            xft:hack:size=9
