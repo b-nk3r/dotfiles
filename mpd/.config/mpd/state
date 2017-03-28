@@ -1,0 +1,30 @@
+sw_volume: 0
+audio_device_state:1:audio
+audio_device_state:1:my_fifo
+state: pause
+current: 2
+time: 16.671000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 05 Venger (Feat. Greta Link).flac
+1:２８１４ - 新しい日の誕生/２８１４ - 新しい日の誕生 - 01 恢复.flac
+2:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 01 Neo Tokyo.flac
+3:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 02 Weapons For Children.flac
+4:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 03 Death Squad.flac
+5:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 04 Femme Fatale (Feat. Highway Superstar).flac
+6:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 05 Venger (Feat. Greta Link).flac
+7:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 06 Disco Inferno.flac
+8:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 07 She Moves Like A Knife.flac
+9:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 08 Sentient (Feat. Hayley Stewart).flac
+10:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 09 Diabolus Ex Machina.flac
+11:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 10 Assault.flac
+12:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 11 The Cult Of 2112.flac
+13:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 12 Souls At Zero (Feat. Astronoid).flac
+14:PERTURBATOR - Uncanny Valley (2016) [WEB FLAC]/PERTURBATOR - The Uncanny Valley - 13 The Uncanny Valley.flac
+playlist_end
